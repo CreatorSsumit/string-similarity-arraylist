@@ -46,7 +46,7 @@ Include   ``<script src="//cdn.jsdelivr.net/npm/string-similarity-arraylist/inde
 
 Or ``<script src="//cdn.jsdelivr.net/npm/string-similarity-arraylist@1.0.1/index.min.js"></script>`` to get a specific version (4.0.1) in this case.
 
-#### This exposes a global variable called getSimilarityofArrayOfObjects , getSimilarityScaleofArrayOfObjects , getSimilarityOfArrayOfStrings , getSimilarityOfTwoString  which you can start using.
+##### This exposes a global variable called getSimilarityofArrayOfObjects , getSimilarityScaleofArrayOfObjects , getSimilarityOfArrayOfStrings , getSimilarityOfTwoString  which you can start using.
 
 ```bash
 
