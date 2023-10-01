@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/CreatorSsumit/string-similarity-arraylist/issues"
   },
-  "homepage": "https://github.com/CreatorSsumit/string-similarity-arraylist#readme",
-  "dependencies": {
-    "spacy": "^0.0.4"
-  }
+  "homepage": "https://github.com/CreatorSsumit/string-similarity-arraylist#readme"
 }

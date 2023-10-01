@@ -1,6 +1,6 @@
 # string-similarity-arraylist
 
-Finds degree of similarity in list of array of objects , array of strings and two stings  based on Machine Learning and Ai Libraries algorithm which is better than Dice's Coefficient, Levenshtein distance.
+Finds degree of similarity in list of array of objects , array of strings and two stings  based on Dice's Coefficient which is way better than Levenshtein distance.
 
 ## Installation
 
