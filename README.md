@@ -14,7 +14,7 @@ Once the package is installed, you can import the library using import or requir
 
 ## Usage
 
-```bash
+```js
 
 const {
 
@@ -29,7 +29,7 @@ const {
 
 or
 
-```bash
+```js
 
 import { 
     
@@ -51,7 +51,7 @@ Or ``<script src="//cdn.jsdelivr.net/npm/string-similarity-arraylist@1.0.1/index
 ##### This exposes a global variable called getSimilarityofArrayOfObjects , getSimilarityScaleofArrayOfObjects , getSimilarityOfArrayOfStrings , getSimilarityOfTwoString  which you can start using.
 
 
-```javascript
+```js
 
     <script>
 
