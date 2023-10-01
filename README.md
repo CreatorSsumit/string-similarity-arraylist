@@ -334,9 +334,10 @@ The general structure of api's as follows:
 
 # Release Notes
 
-> **Version 1.0.2**  : Released  getSimilarityofArrayOfObjects and  getSimilarityScaleofArrayOfObjects .
 
-> **Version 1.0.1**  : Released  getSimilarityOfArrayOfStrings and  getSimilarityOfTwoString .
+> **Version 1.0.2**  : Released  getSimilarityOfArrayOfStrings and  getSimilarityOfTwoString .
+
+> **Version 1.0.1**  : Released  getSimilarityofArrayOfObjects and  getSimilarityScaleofArrayOfObjects .
 
 
 # Resourses 
@@ -346,35 +347,3 @@ The general structure of api's as follows:
 > TensorFlow.js
 
 > NLU
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
