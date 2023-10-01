@@ -112,12 +112,12 @@ function getSimilarityOfTwoString(string1,string2){
  return {similarityScale: jaccardSimilarity(string1.toLowerCase(), string2.toLowerCase())||0};
 }
 
-function getSimilarityOfArrayOfStrings({rawText='', arrayOfStrings=[],sortingOrder,itemsToBeRendered,callback}) {
+function getSimilarityOfArrayOfStrings({rawText='', data=[],sortingOrder,itemsToBeRendered,callback}) {
 	const similarities = [];
 	let bestMatchIndex = 0;
 
-	for (let i = 0; i < arrayOfStrings.length; i++) {
-		const currentTargetString = arrayOfStrings[i];
+	for (let i = 0; i < data.length; i++) {
+		const currentTargetString = data[i];
 		const currentRating = jaccardSimilarity(rawText, currentTargetString)
 		similarities.push({targetString: currentTargetString, similarityScale: currentRating})
 		if (currentRating > similarities[bestMatchIndex].similarityScale) {
