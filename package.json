@@ -1,6 +1,6 @@
 {
   "name": "string-similarity-arraylist",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Finds degree of similarity in list of array of objects , based on Dice's Coefficient, which is mostly better than Levenshtein distance.",
   "main": "index.js",
   "scripts": {
